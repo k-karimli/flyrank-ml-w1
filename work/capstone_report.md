@@ -1,8 +1,8 @@
 # Capstone Report — Ranking Signal Analysis
 
-- **Author:** <Your Name>
+- **Author:** <Kanan Karimli>
 - **Lane:** Ranking Signal Analysis
-- **Repo:** https://github.com/<your-username>/<repo-name>
+- **Repo:** https://github.com/k-karimli/flyrank-ml-w1
 - **Date:** July 2026
 
 ---
